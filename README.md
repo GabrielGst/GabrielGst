@@ -1,6 +1,4 @@
-<!--
-<img src="https://github.com/antoine311200/antoine311200/blob/defdf7a97a14246b1819a8e62dea996195569052/github.gif" alt="Gabriel Gostiaux" width="100%"/>
--->
+<img src="https://github.com/GabrielGst/GabrielGst/blob/main/github.gif" alt="Gabriel Gostiaux" width="100%"/>
 
 <!-- ![version](https://img.shields.io/badge/version-0.0.1-blueviolet) -->
 <div style="flex" align="center">
