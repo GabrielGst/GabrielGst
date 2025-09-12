@@ -2,7 +2,7 @@
 
 <!-- ![version](https://img.shields.io/badge/version-0.0.1-blueviolet) -->
 <div style="flex" align="center">
-  <a href="https://www.linkedin.com/in/gabriel-gostiaux/" alt="Gabriel Gostiaux">
+  <a href="https://www.linkedin.com/in/gabriel-gostiaux/" target="_blank" alt="Gabriel Gostiaux">
     <img src="https://img.shields.io/badge/LinkedIn-blue?link=https://www.linkedin.com/in/gabriel-gostiaux/">
   </a>
 </div>
