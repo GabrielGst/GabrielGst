@@ -7,8 +7,8 @@
   </a>
 </div>
 
-Former student at the Institute of Optics, I graduated my Master of Science in 2025. As a student, I worked on signal and image processing projects using Python. For my thesis I joined the European Space Agency to develop a web application using React (Next.js) with Typescript for the frontend and Python (Flask) for the backend (see automation-hub, demo @ <a href="https://esa.webagab.fr" target="_blank">https://esa.webagab.fr</a>). 
+Former student at the Institute of Optics, I graduated my Master of Science in 2025. As a student, I worked on signal and image processing projects using Python. For my thesis I joined the European Space Agency to develop a web application using React (Next.js) with Typescript for the frontend and Python (Flask) for the backend (demo @ <a href="https://esa.webagab.fr" target="_blank">https://esa.webagab.fr</a>). 
 
-In my free time, I am working on a personal project (Wind-Watch), which intends to be a sailing course web app that uses the weather data fetched by Coperniccus and the ECMWF (see winged-watch).
+In my free time, I am working on a personal project (Wind-Watch), which intends to be a sailing course web app that uses the weather data fetched by Coperniccus and the ECMWF.
 
 I aim to work at the intersection of technology and organizational development to contribute to Digital Transformation initiatives.
